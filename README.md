@@ -1,3 +1,13 @@
+[The Face Shop.csv](https://github.com/user-attachments/files/25349185/The.Face.Shop.csv)
+[Sulwhasoo.csv](https://github.com/user-attachments/files/25349184/Sulwhasoo.csv)
+[Pyunkang Yul.csv](https://github.com/user-attachments/files/25349183/Pyunkang.Yul.csv)
+[Missha.csv](https://github.com/user-attachments/files/25349182/Missha.csv)
+[Laneige.csv](https://github.com/user-attachments/files/25349181/Laneige.csv)
+[Klairs.csv](https://github.com/user-attachments/files/25349180/Klairs.csv)
+[Innisfree.csv](https://github.com/user-attachments/files/25349179/Innisfree.csv)
+[Dr. Jart+.csv](https://github.com/user-attachments/files/25349178/Dr.Jart%2B.csv)
+[COSRX.csv](https://github.com/user-attachments/files/25349177/COSRX.csv)
+[Beauty of Joseon.csv](https://github.com/user-attachments/files/25349176/Beauty.of.Joseon.csv)
  K-Beauty-Search-Trend-Analysis
 
  🔖 Project Overview : The rapid expansion of Korean skincare brands on Indian platforms like Nykaa sparked an important question:
