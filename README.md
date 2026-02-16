@@ -1,0 +1,1 @@
+# K-Beauty-Search-Trend-Analysis
