@@ -8,7 +8,7 @@
                          
                         * Year-over-year growth patterns
                         
-                        * Visual comparison of steady vs spike-driven search trends
+                        * Brand search/interest trends past 5 years
 
    📙 Dataset : 
    
@@ -30,9 +30,7 @@
               * Year-over-Year (YoY) growth analysis
 
               * Brand-wise trend visualization
-
-              * Visual comparison of steady vs spike-driven search patterns
-
+      
 🔍 Key Observations : 
 
         * Some brands demonstrate steady long-term growth, indicating sustained market interest.
